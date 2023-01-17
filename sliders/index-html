@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Sliders</title>
+  </head>
+</html>
+<body>
+    <h1>Sliders</h1>
+    <div class="sliders">
+        <h2 class="slider-title">Slider 01</h2>
+        <div class="slider01 slider">
+            <img src="https://raw.githubusercontent.com/tammyvitorino/frontend-library/assets/assets/images/animals/coruja-pixabay.jpg">
+            <img src="https://raw.githubusercontent.com/tammyvitorino/frontend-library/assets/assets/images/animals/coruja-pixabay.jpg">
+            <img src="https://raw.githubusercontent.com/tammyvitorino/frontend-library/assets/assets/images/animals/coruja-pixabay.jpg">
+            <img src="https://raw.githubusercontent.com/tammyvitorino/frontend-library/assets/assets/images/animals/coruja-pixabay.jpg">
+            <img src="https://raw.githubusercontent.com/tammyvitorino/frontend-library/assets/assets/images/animals/coruja-pixabay.jpg">
+        </div>
+    </div>
+</body>
